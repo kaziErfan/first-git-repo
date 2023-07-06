@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    background-color: thistle;
+    text-align: center;
+}
+.header h2{
+    margin-bottom: 20px;
+    font-size: 42px;
+    color: aliceblue;
+
+}
+.header p{
+    font-size: 22px;
+    font-weight: 600;
+    line-height: 1.5;
+    color: brown;
+}
